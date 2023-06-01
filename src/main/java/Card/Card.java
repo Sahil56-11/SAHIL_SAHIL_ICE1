@@ -8,7 +8,7 @@ package Card;
  * This code is to be used in ICE1. When you create your own branch,
  * add your name as a modifier.
  * 
- * Modified by: [Your Name]
+ * Modified by: [Sahil]
  */
 public class Card {
 
